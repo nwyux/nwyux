@@ -2,7 +2,6 @@
 My projects are available here 👉 https://www.noahdrique.com/
 
 <h3 align="left">Languages and Tools:</h3>
-## Languages and Tools
 
 ### Front
 <p align="left"> 
