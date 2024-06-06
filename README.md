@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Noah</h1>
-My projects are available here 👉 [https://www.noahdrique.com/] (https://www.noahdrique.com/)
+My projects are available here 👉 https://www.noahdrique.com/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
